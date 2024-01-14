@@ -1,0 +1,4 @@
+transformers==4.33.3
+flask==2.2.2
+torch==2.1.2
+Werkzeug==2.2.2
